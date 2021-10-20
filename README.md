@@ -6,7 +6,8 @@
 ### Technology Stack: HTML, CSS, Bootstrap and JavaScript.
 
 ### Preview of Website: 
-![image](https://user-images.githubusercontent.com/42992097/138107445-b0c0c8af-7a76-4c2d-b526-df3ddaf8856f.png)
+![image](https://user-images.githubusercontent.com/42992097/138108084-4a10f280-914c-42ea-b745-999e6c7d9a2d.png)
+
 
 
 ### Link to the Website: https://mathrithmsfrontendbyabdulhussainjarif.netlify.app/
