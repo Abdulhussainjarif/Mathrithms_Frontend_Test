@@ -12,3 +12,4 @@
 
 ### Link to the Website: https://mathrithmsfrontendbyabdulhussainjarif.netlify.app/
 
+### Note: For Best results open the website in chrome and keep the zoom at 150%
